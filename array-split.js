@@ -7,3 +7,4 @@ console.log(removed);
 
 const together = nums.join("ami ");
 console.log(together);
+
